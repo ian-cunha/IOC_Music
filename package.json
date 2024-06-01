@@ -1,0 +1,16 @@
+{
+  "name": "ioc-music-bot",
+  "version": "1.0.0",
+  "description": "IOC Music Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "@discordjs/voice": "^0.10.0",
+    "ytdl-core": "^4.9.1",
+    "youtube-search-api": "^1.0.3",
+    "ffmpeg-static": "^4.4.0"
+  }
+}
